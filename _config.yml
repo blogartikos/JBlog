@@ -4,7 +4,7 @@ bio:            'Artikos'
 description:    "La wiki de Artikos."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://blogartikos.github.io/
+url:            https://blogartikos.github.io
 
 
 # Jekyll
