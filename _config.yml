@@ -1,7 +1,7 @@
 # Site
 title:          Artikos Wiki
 bio:            'Artikos'
-description:    "La wiki de Artikos."
+description:    "Esta es la wiki de Artikos."
 picture:        'assets/img/profile.png'
 locale:         en_US
 url:            https://blogartikos.github.io
